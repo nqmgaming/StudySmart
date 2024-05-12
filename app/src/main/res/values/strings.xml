@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">StudySmart</string>
+    <string name="dashboard_title">StudySmart</string>
+    <string name="subject_count">Subject Count</string>
+    <string name="studied_hours">Studied Hours</string>
+    <string name="goal_study_hours">Goal Study Hours</string>
+    <string name="subject_title">SUBJECTS</string>
+    <string name="add_subject">Add Subject</string>
+    <string name="no_subjects_found">No Subject Found</string>
+    <string name="subject_card_image">Subject Card Image</string>
 </resources>
